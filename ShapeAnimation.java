@@ -17,8 +17,6 @@ Shape Animation - Java Applet Assignment
 
 Author: Sonia Cui
 Date: December 18, 2017
-For: Mr. Berry
-Course: ICS4U
 
 Functions:
 - draw 4 different shapes of 4 different colours
